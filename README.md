@@ -1,2 +1,4 @@
 # wanip
-Shows the public IP of system
+Go inside project directory & execute
+
+    $ sudo ./install.sh
